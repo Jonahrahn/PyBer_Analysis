@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Ride-Share Analytics
+Ride-Share Analytics modeled after Uber Data
 
 ## Resources
 - "Resources/city_data.csv"
